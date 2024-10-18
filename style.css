@@ -1,0 +1,21 @@
+*{
+margin:0px;
+padding:0px;
+}
+
+.myclass{
+   background-color:yellow;
+   color:purple;
+   margin:10px;
+   padding:15px;
+}
+
+#thirdheading{
+    color:white;
+    background-color:pink;
+}
+
+p{
+  color:blue;
+}
+
